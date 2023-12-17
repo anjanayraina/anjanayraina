@@ -1,4 +1,3 @@
-<h2> Hi there 👋, I'm Anjanay Raina </h2>
 <h1 align="center">Hi 👋, I'm Anjanay Raina</h1>
 <h3 align="center">I'm an avid Smart Contract Auditor, Blockchain and Software Developer. I Love to code, like watching anime and practicing MMA</h3>
 

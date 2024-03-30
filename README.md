@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjanay Raina</h1>
-<h3 align="center">I'm an avid Smart Contract Auditor 💻, Blockchain ⛓️ and Software Developer 👨‍💻. I Love to code, like watching anime and practicing MMA 🥊</h3>
+<h3 align="center">I'm an avid Smart Contract Auditor 💻, Blockchain ⛓️ and Software Developer 👨‍💻. I Love to code, like watching anime and boxing 🥊</h3>
 
 - 🔭 I’m currently working on [PerpVault](github.com/anjanayraina/PerpetualVault)
 **PS : This project is a part of Owen Thurn Security Course**

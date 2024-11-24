@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anjanay Raina</h1>
 <h3 align="center">I'm an avid Smart Contract Auditor 💻, Blockchain ⛓️ and Software Developer 👨‍💻. I Love to code, like watching anime and boxing 🥊</h3>
+<h3 align="center">Here are some of my Audits </h3>
 
-- 🔭 I’m currently working on [PerpVault](github.com/anjanayraina/PerpetualVault)
-**PS : This project is a part of Owen Thurn Security Course**
+- Moonvera Audit : https://drive.google.com/file/d/1jwlENF7NnYIV4bRF9sNse_CtaR1A_VYX/view?usp=drive_link
+- EmpowerCoin Audit: https://drive.google.com/file/d/1mwvmyLRQbmPKKwE8_Ac8Bwm6SvFU8mws/view?usp=drive_link
+- Kendu Audit and Mitigation Review : https://drive.google.com/drive/folders/1MKm8YU31gpaNCIJmQgSCboIa5AEp_OI5
+- QIE Contracts Audit : https://drive.google.com/file/d/1m73DMFvzlr2O32TxBrQxxwiIwd5ufEzQ/view?usp=drive_link
+- Zus Protocol Audit : https://drive.google.com/drive/folders/1lOQWp2m8ezANvN18WRJ-bYVnFirTLDRp
+- DavToken Protocol Audit : https://drive.google.com/drive/folders/196JwBWOCK-z7Lv0MCvJcAWY4AvZRnKWu 
 
 - 👨‍💻 All of my projects are available at [https://anjanayraina.github.io/my_portfolio_website](https://anjanayraina.github.io/my_portfolio_website)
 

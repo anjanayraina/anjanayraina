@@ -23,6 +23,12 @@
 </p>
     
 
+![Solidity](https://img.shields.io/badge/Solidity-3C3C3D?style=flat&logo=solidity&logoColor=white)
+![Code4rena](https://img.shields.io/badge/Code4rena-Top_300-orange)
+![Sherlock](https://img.shields.io/badge/Sherlock-Top_800-blue)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
 
 #### Github Stats 📊
 

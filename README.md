@@ -1,43 +1,55 @@
 <h1 align="center">Hi 👋, I'm Anjanay Raina</h1>
-<h3 align="center">I'm an avid Smart Contract Auditor 💻, Blockchain ⛓️ and Software Developer 👨‍💻. I Love to code, like watching anime and boxing 🥊</h3>
-<h3 align="center">Here are some of my Audits </h3>
+<h3 align="center">Full-Stack & AI Engineer | Smart Contract Auditor | Product Builder</h3>
 
-- Moonvera Audit : https://drive.google.com/file/d/1jwlENF7NnYIV4bRF9sNse_CtaR1A_VYX/view?usp=drive_link
-- EmpowerCoin Audit: https://drive.google.com/file/d/1mwvmyLRQbmPKKwE8_Ac8Bwm6SvFU8mws/view?usp=drive_link
-- Kendu Audit and Mitigation Review : https://drive.google.com/drive/folders/1MKm8YU31gpaNCIJmQgSCboIa5AEp_OI5
-- QIE Contracts Audit : https://drive.google.com/file/d/1m73DMFvzlr2O32TxBrQxxwiIwd5ufEzQ/view?usp=drive_link
-- Zus Protocol Audit : https://drive.google.com/drive/folders/1lOQWp2m8ezANvN18WRJ-bYVnFirTLDRp
-- DavToken Protocol Audit : https://drive.google.com/drive/folders/196JwBWOCK-z7Lv0MCvJcAWY4AvZRnKWu 
-
-- 👨‍💻 All of my projects are available at [https://anjanayraina.github.io/my_portfolio_website](https://anjanayraina.github.io/my_portfolio_website)
-
-- 📝 I regularly write articles on [https://medium.com/@anjanayraina326](https://medium.com/@anjanayraina326)
-
-- 📫 How to reach me **anjanayraina326@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rainaanjan69745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rainaanjan69745" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anjanay-raina-289716192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjanay-raina-289716192/" height="30" width="40" /></a>
-<a href="https://medium.com/@anjanayraina326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anjanayraina326" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anjanayraina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anjanayraina/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-3C3C3D?style=flat&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
 </p>
-    
 
-![Solidity](https://img.shields.io/badge/Solidity-3C3C3D?style=flat&logo=solidity&logoColor=white)
-![Code4rena](https://img.shields.io/badge/Code4rena-Top_300-orange)
-![Sherlock](https://img.shields.io/badge/Sherlock-Top_800-blue)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+---
 
+### ⚡ About Me
+I am a developer who builds at the intersection of **AI, Web3, and Scalable Backend Systems**. Whether it's auditing complex DeFi protocols or building LLM-powered lead generation tools, I focus on shipping secure, high-performance products.
 
-#### Github Stats 📊
+- 🤖 **AI & LLMs:** Building automated audit tools and AI-driven business intelligence (LeadGen & Auditing automation).
+- ⛓️ **Web3 Security:** Top 300 on Code4rena & Top 800 on Sherlock. I've audited protocols like Zus, Moonvera, and EmpowerCoin.
+- 🛠️ **Full-Stack & Backend:** Expert in Python (FastAPI/Flask), Node.js, and React. I enjoy architecting distributed systems and real-time trading platforms.
+- 🥊 **Off-duty:** You'll find me at the boxing gym, watching anime, or trading the markets.
 
-[![Patricks's github stats](https://github-readme-stats.vercel.app/api?username=anjanayraina)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+### 🔍 Featured Projects & Audits
 
+#### 🤖 AI & Full-Stack 
+* **LeadGen Automation:** An AI-powered tool that automates finding and auditing local businesses (Python, LLMs, Scrapy).
+* **AI Trading Platform:** A spot and margin trading platform with AI-driven insights.
+* **JobSleuth:** A comprehensive job aggregation platform.
+* **Middle Earth AI:** A distributed strategy game showcasing AI agent interactions.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjanayraina&show_icons=true&locale=en&layout=compact" alt="anjanayraina" /></p>
+#### 🛡️ Smart Contract Audits (Proof of Work)
+* **Kendu Audit & Mitigation:** [View Folder](https://drive.google.com/drive/folders/1MKm8YU31gpaNCIJmQgSCboIa5AEp_OI5)
+* **Zus Protocol Audit:** [View Folder](https://drive.google.com/drive/folders/1lOQWp2m8ezANvN18WRJ-bYVnFirTLDRp)
+* **Moonvera & EmpowerCoin:** [Moonvera](https://drive.google.com/file/d/1jwlENF7NnYIV4bRF9sNse_CtaR1A_VYX/view) | [EmpowerCoin](https://drive.google.com/file/d/1mwvmyLRQbmPKKwE8_Ac8Bwm6SvFU8mws/view)
+* **DavToken & QIE Contracts:** [DavToken](https://drive.google.com/drive/folders/196JwBWOCK-z7Lv0MCvJcAWY4AvZRnKWu) | [QIE Audit](https://drive.google.com/file/d/1m73DMFvzlr2O32TxBrQxxwiIwd5ufEzQ/view)
 
+---
 
+### 📊 My Stats & Ecosystem
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anjanayraina&show_icons=true&theme=radical" alt="Anjanay's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anjanayraina&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
+### 🤝 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/anjanay-raina-289716192/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/rainaanjan69745" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://medium.com/@anjanayraina326" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anjanayraina/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
 
+- 📧 Reach me at: **anjanayraina326@gmail.com**
+- 🌐 Portfolio: [anjanayraina.github.io](https://anjanayraina.github.io/my_portfolio_website)

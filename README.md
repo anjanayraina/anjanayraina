@@ -57,4 +57,4 @@ I am a developer who builds at the intersection of **AI, Web3, and Scalable Back
 </p>
 
 - 📧 Reach me at: **anjanayraina326@gmail.com**
-- 🌐 Portfolio: [anjanayraina.github.io](https://anjanayraina.github.io/my_portfolio_website)
+- 🌐 Portfolio: [Portfolio Website](https://anjanay.in)
